@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1baf9426-81dd-4d70-8ee4-7e2248d33e0c": {
+      "ProjectGuid": "1baf9426-81dd-4d70-8ee4-7e2248d33e0c",
+      "DisplayName": "ApiEmpresas.Services",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "d4b91aa7-d1fd-4fd9-82a4-15afec5257bf": {
+      "ProjectGuid": "d4b91aa7-d1fd-4fd9-82a4-15afec5257bf",
+      "DisplayName": "ApiEmpresas.Infra.Data",
+      "ColorIndex": 1
+    },
+    "7df93143-9841-423a-b470-8a5a56118a3d": {
+      "ProjectGuid": "7df93143-9841-423a-b470-8a5a56118a3d",
+      "DisplayName": "ApiEmpresas.Services",
+      "ColorIndex": 2
+    },
+    "8d350e7c-7de1-4666-8934-6f8239b8ef42": {
+      "ProjectGuid": "8d350e7c-7de1-4666-8934-6f8239b8ef42",
+      "DisplayName": "ApiEmpresas.Infra.Data",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

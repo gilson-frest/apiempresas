@@ -6,5 +6,3 @@
 3. Autenticação com JWT - JSON WEB TOKENS
 ## COTI INFORMÁTICA
 Turma de C# WebDeveloper - Terças/Quintas manhã, início em 08/02/22
-
-
